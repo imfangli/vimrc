@@ -40,7 +40,7 @@ set expandtab
 let g:indentLine_color_term = 239
 let g:indentLine_conceallevel = 2
 let g:indentLine_enabled = 1
-let g:indentLine_leadingSpaceEnabled = 1
+" let g:indentLine_leadingSpaceEnabled = 1
 let g:indentLine_leadingSpaceChar = '·'
 
 " 高亮末尾空格
