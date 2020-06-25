@@ -85,3 +85,6 @@ set foldlevelstart=99
 
 " https://github.com/posva/vim-vue
 let g:vue_pre_processors = ['pug', 'scss']
+
+" Disable quote concealing in JSON files
+let g:vim_json_conceal=0
